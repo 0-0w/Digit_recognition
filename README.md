@@ -1,0 +1,1 @@
+This is a jupyter notebook to CNN and ANN using TensorFlow 2.x Keras API. The dataset that we will work it is the MNIST dataset, a dataset of handwritten digits 0-9, and we will use a Sequential CNN,ANN to predict which digit was drawn. This model reaches 99.3% accuracy.
