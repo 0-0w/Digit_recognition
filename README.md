@@ -43,7 +43,3 @@ In addition to the CNN, an Artificial Neural Network (ANN) is implemented in the
 ## Results
 
 The trained models achieve an impressive accuracy of 99.3% on the test set, showcasing the effectiveness of both CNN and ANN architectures for digit recognition.
-
-Feel free to explore and modify the notebook to enhance your understanding of Convolutional Neural Networks and Artificial Neural Networks using TensorFlow 2.x Keras API. If you have any questions or suggestions, please don't hesitate to reach out.
-
-Happy coding!
